@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ruoyi.iml" filepath="$PROJECT_DIR$/ruoyi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ruoyi-admin/ruoyi-admin.iml" filepath="$PROJECT_DIR$/ruoyi-admin/ruoyi-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ruoyi-common/ruoyi-common.iml" filepath="$PROJECT_DIR$/ruoyi-common/ruoyi-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ruoyi-framework/ruoyi-framework.iml" filepath="$PROJECT_DIR$/ruoyi-framework/ruoyi-framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ruoyi-generator/ruoyi-generator.iml" filepath="$PROJECT_DIR$/ruoyi-generator/ruoyi-generator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ruoyi-quartz/ruoyi-quartz.iml" filepath="$PROJECT_DIR$/ruoyi-quartz/ruoyi-quartz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ruoyi-system/ruoyi-system.iml" filepath="$PROJECT_DIR$/ruoyi-system/ruoyi-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty.iml" filepath="$PROJECT_DIR$/dynasty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty-admin/dynasty-admin.iml" filepath="$PROJECT_DIR$/dynasty-admin/dynasty-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty-common/dynasty-common.iml" filepath="$PROJECT_DIR$/dynasty-common/dynasty-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty-framework/dynasty-framework.iml" filepath="$PROJECT_DIR$/dynasty-framework/dynasty-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty-generator/dynasty-generator.iml" filepath="$PROJECT_DIR$/dynasty-generator/dynasty-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty-quartz/dynasty-quartz.iml" filepath="$PROJECT_DIR$/dynasty-quartz/dynasty-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynasty-system/dynasty-system.iml" filepath="$PROJECT_DIR$/dynasty-system/dynasty-system.iml" />
     </modules>
   </component>
 </project>
