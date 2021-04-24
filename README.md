@@ -24,4 +24,29 @@ dynasty是一套全部开源的快速开发平台。
 17. 在线构建器：拖动表单元素生成相应的HTML代码。
 18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
 
-## 文档地址：https://ycf-code.xyz
+## 项目结构
+---
+com.dynasty     
+├── common            // 工具类
+│       └── annotation                    // 自定义注解
+│       └── config                        // 全局配置
+│       └── constant                      // 通用常量
+│       └── core                          // 核心控制
+│       └── enums                         // 通用枚举
+│       └── exception                     // 通用异常
+│       └── json                          // JSON数据处理
+│       └── utils                         // 通用类处理
+│       └── xss                           // XSS过滤处理
+├── framework         // 框架核心
+│       └── aspectj                       // 注解实现
+│       └── config                        // 系统配置
+│       └── datasource                    // 数据权限
+│       └── interceptor                   // 拦截器
+│       └── manager                       // 异步处理
+│       └── shiro                         // 权限控制
+│       └── web                           // 前端控制
+├── dynasty-generator   // 代码生成（不用可移除）
+├── dynasty-quartz      // 定时任务（不用可移除）
+├── dynasty-system      // 系统代码
+├── dynasty-admin       // 后台服务
+---
