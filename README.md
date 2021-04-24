@@ -25,28 +25,26 @@ dynasty是一套全部开源的快速开发平台。
 18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
 
 ## 项目结构
----
-com.dynasty     
-├── common            // 工具类
-│       └── annotation                    // 自定义注解
-│       └── config                        // 全局配置
-│       └── constant                      // 通用常量
-│       └── core                          // 核心控制
-│       └── enums                         // 通用枚举
-│       └── exception                     // 通用异常
-│       └── json                          // JSON数据处理
-│       └── utils                         // 通用类处理
-│       └── xss                           // XSS过滤处理
-├── framework         // 框架核心
-│       └── aspectj                       // 注解实现
-│       └── config                        // 系统配置
-│       └── datasource                    // 数据权限
-│       └── interceptor                   // 拦截器
-│       └── manager                       // 异步处理
-│       └── shiro                         // 权限控制
-│       └── web                           // 前端控制
-├── dynasty-generator   // 代码生成（不用可移除）
-├── dynasty-quartz      // 定时任务（不用可移除）
-├── dynasty-system      // 系统代码
-├── dynasty-admin       // 后台服务
----
+com.dynasty <br>    
+├── common            ---工具类<br>
+│       └──---- annotation                    ----自定义注解<br>
+│       └──---- config                        ---------全局配置<br>
+│       └──---- constant                      ------通用常量<br>
+│       └──---- core                          -----------核心控制<br>
+│       └──---- enums                         --------通用枚举<br>
+│       └──---- exception                     -----通用异常<br>
+│       └──---- json                          -----------JSON数据处理<br>
+│       └──---- utils                         -----------通用类处理<br>
+│       └──---- xss                           ------------XSS过滤处理<br>
+├── framework         ---框架核心<br>
+│       └──---- aspectj                       --------注解实现<br>
+│       └──---- config                        ---------系统配置<br>
+│       └──---- datasource                    ----数据权限<br>
+│       └──---- interceptor                   ----拦截器<br>
+│       └──---- manager                       ------异步处理<br>
+│       └──---- shiro                         ----------权限控制<br>
+│       └──---- web                           -----------前端控制<br>
+├── dynasty-generator   ----代码生成（不用可移除）<br>
+├── dynasty-quartz      --------定时任务（不用可移除）<br>
+├── dynasty-system      -------系统代码<br>
+├── dynasty-admin       --------后台服务<br>
