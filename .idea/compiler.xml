@@ -22,7 +22,7 @@
       <module name="dynasty-generator" target="1.8" />
       <module name="dynasty-quartz" target="1.8" />
       <module name="dynasty-system" target="1.8" />
-      <module name="ruoyi" target="1.8" />
+      <module name="dynasty" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
