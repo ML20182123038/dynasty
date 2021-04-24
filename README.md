@@ -24,6 +24,38 @@ dynasty是一套全部开源的快速开发平台。
 17. 在线构建器：拖动表单元素生成相应的HTML代码。
 18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
 
+## 主要特性
+完全响应式布局（支持电脑、平板、手机等所有主流设备）。<br>
+强大的一键生成功能（包括控制器、模型、视图、菜单等）。<br>
+支持多数据源，简单配置即可实现切换。<br>
+支持按钮及数据权限，可自定义部门数据权限。<br>
+对常用js插件进行二次封装，使js代码变得简洁，更加易维护。<br>
+完善的XSS防范及脚本过滤，彻底杜绝XSS攻击。<br>
+Maven多项目依赖，模块及插件分项目，尽量松耦合，方便模块升级、增减模块。<br>
+国际化支持，服务端及客户端支持。<br>
+完善的日志记录体系简单注解即可实现<br>
+支持服务监控，数据监控，缓存监控功能。<br>
+
+## 技术选型
+1、系统环境<br>
+Java EE 8<br>
+Servlet 3.0<br>
+Apache Maven 3<br>
+
+2、主框架<br>
+Spring Boot 2.2.x<br>
+Spring Framework 5.2.x<br>
+Apache Shiro 1.7<br>
+
+3、持久层<br>
+Apache MyBatis 3.5.x<br>
+Hibernate Validation 6.0.x<br>
+Alibaba Druid 1.2.x<br>
+
+4、视图层<br>
+Bootstrap 3.3.7<br>
+Thymeleaf 3.0.x<br>
+
 ## 项目结构
 com.dynasty <br>    
 ├── common            ---工具类<br>
