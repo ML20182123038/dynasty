@@ -1,3 +1,16 @@
+<p>
+	<img src="https://img.shields.io/badge/Maven-green.svg" ></img>
+	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
+		<img src="https://img.shields.io/badge/JDK-1.8+-blue.svg" ></img>
+	</a>
+	<img src="https://img.shields.io/badge/SpringBoot-2-green.svg" ></img>
+	<img src="https://img.shields.io/badge/MySQL-8-red.svg" ></img>
+  <img src="https://img.shields.io/badge/Mybatis-3.5-green.svg" ></img>
+	<img src="https://img.shields.io/badge/Shiro-1.7-red.svg" ></img>
+	<img src="https://img.shields.io/badge/Druid-1.2-yellow.svg" ></img>
+	<img src="https://img.shields.io/badge/Thymeleaf-3.0-blue.svg" ></img>
+</p>
+
 # dynasty
 ## 平台简介
 dynasty可以用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA。所有前端后台代码封装过后十分精简易上手，出错概率低。同时支持移动客户端访问。系统会陆续更新一些实用功能。
